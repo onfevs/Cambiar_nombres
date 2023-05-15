@@ -16,7 +16,8 @@ Este script de Python permite renombrar carpetas y subcarpetas dentro de una car
 - Python 3.x
 
 ## Créditos
-Este proyecto fue desarrollado por @OnfeVS.
+
+Este código fue creado por @OnfeVS. Todos los derechos reservados.
 
 ## Ejemplo de Uso
 
